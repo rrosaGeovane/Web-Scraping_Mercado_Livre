@@ -1,6 +1,6 @@
 # Web-Scraping_Mercado_Livre
 
-A Python web scraping tool that extracts notebook (laptop) information from Mercado Livre using Selenium and BeautifulSoup. This scraper specifically searches for notebooks with "16GB RAM and 1TB SSD" and saves the data to an Excel file.
+A web scraping tool in Python that extracts information about notebooks (laptops) from Mercado Livre using Selenium and BeautifulSoup. Specifically, it searches for notebooks with "16GB of RAM and 1TB SSD" and saves the data in an Excel file. This scraper project was made in 2024, for the Information Systems college.
 
 ## 📋 Features
 
