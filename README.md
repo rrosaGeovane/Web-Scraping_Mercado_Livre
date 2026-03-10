@@ -138,12 +138,6 @@ This tool is for educational purposes only. Users are responsible for:
 
 The developers are not liable for any misuse of this software.
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/mercadolibre-notebook-scraper](https://github.com/yourusername/mercadolibre-notebook-scraper)
-
 ---
 
 **Note:** Web scraping may be against the terms of service of some websites. Always check the website's robots.txt and terms of service before scraping. This code is provided as an educational example.
